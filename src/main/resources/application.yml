@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: OneGate-CRM
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27018
+      database: onegate_crm_db
+
+server:
+  port: 8080
